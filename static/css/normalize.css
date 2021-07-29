@@ -8,8 +8,8 @@
 
 html {
   font-family: 'Open Sans', sans-serif;
-  -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+  -ms-text-size-adjust: 200%; /* 2 */
+  -webkit-text-size-adjust: 50%; /* 2 */
   font-size: 16px;
 }
 
