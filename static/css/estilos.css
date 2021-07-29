@@ -37,9 +37,9 @@
 }
 
 .MainMenu-link{
-    color: red;
+    color: blueviolet;
     font-size: 2em;
-    line-height: 60px;
+    line-height: 40px;
     margin: 0 1.25em;
     text-decoration: none;
     text-shadow: 10px 10px 10px white;
@@ -97,7 +97,7 @@ margin: 1em 1px;
 }
 
 .Profile-link{
-    background-color: orange;
+    background-color: rgba(194, 127, 3, 0.664);
     border-radius: 1.5em;
     color: white;
     padding: .5em 1em;
@@ -146,7 +146,7 @@ margin: 1em 1px;
     background-size: cover;
     text-align: center;
     padding: 2em 0;
-    text-shadow: 2px 2px 2px #000000;
+    text-shadow: 2px 2px 2px #64646400;
 }
 
 .Footer-left{
