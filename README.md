@@ -18,3 +18,5 @@ Este es un parrafo de la descripcion ,Este es un parrafo de la descripcion ,Este
 - Start Arduino and open the Preferences window.
 
 ![Titulo nuevo](https://svgsilh.com/svg/1801287.svg)
+
+- Se debe instalar Java
