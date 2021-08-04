@@ -19,4 +19,6 @@ Este es un parrafo de la descripcion ,Este es un parrafo de la descripcion ,Este
 
 ![Titulo nuevo](https://svgsilh.com/svg/1801287.svg)
 
+
+- Master 2
 - Se debe instalar Java
